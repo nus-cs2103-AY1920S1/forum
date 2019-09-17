@@ -1,7 +1,7 @@
 ---
 name: Sharing a tip
 about: Template for sharing a tip
-title: ':bulb:'
+title: '💡'
 labels: 'type-Tip :bulb:'
 assignees: ''
 
