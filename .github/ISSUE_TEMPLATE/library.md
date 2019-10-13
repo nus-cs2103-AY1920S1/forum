@@ -14,3 +14,7 @@ assignees: ''
 ## Purpose
 
 {Explain for what kind of functionality you intende to use it for}
+
+## License
+
+{Mention the license under which the library is released (e.g., MIT, GPL, Apache etc.) and give a link to the relevant page on their website}
