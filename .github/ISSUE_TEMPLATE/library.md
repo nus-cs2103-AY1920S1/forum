@@ -9,8 +9,8 @@ assignees: ''
 
 ## Library
 
-{Give the library name and the URL here}
+[Library Name](Library URL)
 
-## Purpsoe
+## Purpose
 
 {Explain for what kind of functionality you intende to use it for}
